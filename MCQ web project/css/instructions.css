@@ -1,9 +1,0 @@
-#instructions  li{
-    list-style:square;
-    margin-bottom: 1rem;
-    font-size: 1.8rem;
-}
-li >b{
-    color: antiquewhite;
-}
-
