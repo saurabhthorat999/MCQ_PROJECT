@@ -1,33 +1,54 @@
 [
 {
-    "question":"what are the front-end technogies?",
-    "choice1":"HTML",
-    "choice2":"CSS",
-    "choice3":"JAVASCRIPT",
-    "choice4":"ALL",
-    "answer":"4"
+    "question":"MS-Word is an example of ?",
+    "choice1":"An operating system",
+    "choice2":"A processing device",
+    "choice3":"Application software",
+    "choice4":"An input device",
+    "answer":"3"
 
 },
 {
     
-    "question":"what are the front-end frameworks?",
-    "choice1":"React",
-    "choice2":"Angular",
-    "choice3":"both a and b",
-    "choice4":"none",
-    "answer":"3"
+    "question":"Ctrl, Shift and Alt are called ... keys.",
+    "choice1":"modifier",
+    "choice2":" function",
+    "choice3":"alphanumeric",
+    "choice4":"adjustment",
+    "answer":"1"
 
 
 
 },
 {
 
-    "question":"which tage is used to include javascript file in HTML document?",
-    "choice1":"<script></script>",
-    "choice2":"<link></link>",
-    "choice3":"<import>",
-    "choice4":"<js></js>",
+    "question":"________ is the process of dividing the disk into tracks and sectors.",
+    "choice1":"Tracking",
+    "choice2":"Formatting",
+    "choice3":"Crashing",
+    "choice4":"Allotting",
+    "answer":"2"
+
+},
+{
+
+    "question":"Junk e-mail is also called ______",
+    "choice1":"Spam",
+    "choice2":"Spoof",
+    "choice3":"Sniffer script",
+    "choice4":"Spool",
     "answer":"1"
 
+},
+{
+
+    "question":"_are attempts by individuals to obtain confidential information from you by falsifying their identity.",
+    "choice1":"Phishing trips",
+    "choice2":"Computer viruses",
+    "choice3":"Phishing scams",
+    "choice4":"Spyware scams",
+    "answer":"3"
+
 }
+
 ]
