@@ -17,7 +17,7 @@ let acceptingAnswers=false;
 let availableQuestions=[];
 
 const BONUS_SCORE=10;
-const MAX_QUESTIONS=3;
+const MAX_QUESTIONS=5;
 
 let questions=[
    /*  {
@@ -75,7 +75,7 @@ startgame = ()=>{
 }
 getNewQuestion=()=>{
 
-    if(questionCounter===3){
+    if(questionCounter===5){
         localStorage.setItem('mostRecentScore',score);
         return window.location.assign("end.html");
 
