@@ -1,13 +1,13 @@
-const profile = document.getElementById("portfolio_link")
+let profile = document.getElementById("portfolio_link");
 
-profile.addEventListener('mouseenter',()=>{
+profile.addEventListener("mouseenter",()=>{
     
     profile.textContent = "Saurabh Thorat";
 
 })
 
 profile.addEventListener("mouseleave",()=>{
-    profile.textContent ="ST";
+    profile.textContent = "ST";
 })
 
 const question=document.getElementById("question")
