@@ -7,7 +7,7 @@ profile.addEventListener('mouseenter',()=>{
 })
 
 profile.addEventListener("mouseleave",()=>{
-    profile.textContent ='ST'
+    profile.textContent ="ST";
 })
 
 const question=document.getElementById("question")
