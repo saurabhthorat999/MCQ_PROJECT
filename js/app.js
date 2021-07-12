@@ -1,3 +1,5 @@
+const profile = document.getElementById("portfolio_link")
+
 profile.addEventListener('mouseenter',()=>{
     
     profile.textContent = "Saurabh Thorat";
